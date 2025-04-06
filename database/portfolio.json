@@ -22,46 +22,81 @@
     "description": "I'm a Full Stack Developer with experience in both web and mobile development, passionate about building intelligent systems using Machine Learning. I also develop cross-platform mobile apps using React Native."
   },
   "skillsInfo": {
-    "displayName": "Tools",
+    "displayName": "Skills",
     "skills": [
       {
-        "name": "Business Strategy",
-        "rating": 9.5
+        "name": "C++",
+        "rating": 9
       },
       {
-        "name": "Project Management",
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "name": "C++",
+        "rating": 9
+      },
+      {
+        "id": "1743925301412",
+        "name": "Node.js",
         "rating": 8.5
       },
       {
-        "name": "Marketing Strategy",
+        "id": "1743925310216",
+        "name": "Express",
+        "rating": 9
+      },
+      {
+        "id": "1743925323060",
+        "name": "MongoDB",
+        "rating": 9
+      },
+      {
+        "id": "1743925329199",
+        "name": "SQL",
         "rating": 8.5
       },
       {
-        "name": "Operations Management",
-        "rating": 6.5
+        "id": "1743925340182",
+        "name": "React Native",
+        "rating": 9
       },
       {
-        "name": "Leadership & Team Management",
+        "id": "1743925350997",
+        "name": "Machine Learning",
         "rating": 8.5
       },
       {
-        "name": "Financial Analysis & Budgeting",
-        "rating": 7.5
-      },
-      {
-        "name": "Market Research & Competitive Analysis",
+        "id": "1743925369417",
+        "name": "Data Structures and Algorithms",
         "rating": 8
-      },
-      {
-        "name": "Stakeholder Communication",
-        "rating": 8.5
-      },
-      {
-        "name": "Data Analytics",
-        "rating": 8.5
       }
     ],
-    "showMovingSkills": true
+    "skillAnimationType": ""
   },
   "projectsInfo": {
     "displayName": "Timeline",
