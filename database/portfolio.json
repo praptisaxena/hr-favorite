@@ -128,6 +128,20 @@
         "skills": "React.JS,Firebase,Gemini API",
         "companyName": "",
         "images": []
+      },
+      {
+        "timeline": "Mar 2025",
+        "projectName": "AI-Driven Career & Financial Planning in STEM",
+        "headline1": "Built a React-based application that showcases career path information, including job titles, salary expectations, growth opportunities, and personalized financial goals.",
+        "headline2": "Integrated PDF generation to allow users to download a detailed career plan, including sections for savings targets, investment strategies, and expert advice.",
+        "designation": "",
+        "link": {
+          "linkText": "Github",
+          "linkUrl": "https://github.com/praptisaxena/Team10.git"
+        },
+        "skills": "React.Js,Firebase,Gemini API",
+        "companyName": "",
+        "images": []
       }
     ]
   },
