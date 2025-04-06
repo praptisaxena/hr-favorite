@@ -113,7 +113,8 @@
         },
         "skills": "MERN stack,React.js, Node.js, Express.js,MongoDB.",
         "companyName": "",
-        "images": []
+        "images": [],
+        "rank": "2"
       },
       {
         "timeline": "Dec 2024",
@@ -127,7 +128,8 @@
         },
         "skills": "React.JS,Firebase,Gemini API",
         "companyName": "",
-        "images": []
+        "images": [],
+        "rank": "3"
       },
       {
         "timeline": "Mar 2025",
@@ -141,7 +143,8 @@
         },
         "skills": "React.Js,Firebase,Gemini API",
         "companyName": "",
-        "images": []
+        "images": [],
+        "rank": "1"
       }
     ]
   },
