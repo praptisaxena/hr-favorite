@@ -114,6 +114,20 @@
         "skills": "MERN stack,React.js, Node.js, Express.js,MongoDB.",
         "companyName": "",
         "images": []
+      },
+      {
+        "timeline": "Dec 2024",
+        "projectName": "Travel Recommendation System",
+        "headline1": "Developed a travel itinerary recommendation system that generates personalized plans based on origin, destination, number of days, and budget, leveraging the Gemini API for travel suggestions.",
+        "headline2": "Built a React.js frontend integrated with Firebase for secure database storage, enabling users to create, view, and manage their travel itineraries seamlessly.",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "React.JS,Firebase,Gemini API",
+        "companyName": "",
+        "images": []
       }
     ]
   },
