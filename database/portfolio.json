@@ -99,58 +99,21 @@
     "skillAnimationType": ""
   },
   "projectsInfo": {
-    "displayName": "Timeline",
+    "displayName": "Projects",
     "projects": [
       {
-        "timeline": "Jul'23 – Present",
-        "projectName": "Business Process Optimization for Enterprise Clients",
-        "headline1": "Leading a team to improve operational efficiency for global clients.",
-        "headline2": "Implemented strategies that reduced operational costs by 15%.",
-        "designation": "Management Consultant",
+        "timeline": "Jan 2025",
+        "projectName": "Expense Tracker",
+        "headline1": "Developed a web application to track income and expenses with secure user authentication.",
+        "headline2": "Users can add, categorize, and manage expenses and income entries.",
+        "designation": "",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "Github",
+          "linkUrl": "https://github.com/praptisaxena/ExpenseTracker.git"
         },
-        "skills": "Business Strategy, Market Research, Financial Modeling, Project Management",
-        "companyName": "Tata Consultancy Services (TCS)",
-        "images": [
-          {
-            "fileName": "mg1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg1.png"
-          },
-          {
-            "fileName": "mg2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg2.png"
-          },
-          {
-            "fileName": "mg5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg5.png"
-          }
-        ]
-      },
-      {
-        "timeline": "Aug'20 – Aug'21",
-        "projectName": "Retail Banking Expansion Strategy",
-        "headline1": "Developed market penetration strategies to expand customer base.",
-        "headline2": "Optimized financial products, increasing revenue by 12%.",
-        "designation": "Assistant Manager - Business Strategy",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "Financial Analysis, Strategic Planning, Stakeholder Communication",
-        "companyName": "HDFC Bank",
-        "images": [
-          {
-            "fileName": "mg3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg3.png"
-          },
-          {
-            "fileName": "mg4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg4.png"
-          }
-        ],
-        "rank": "3"
+        "skills": "Built using the MERN stack: React.js, Node.js, Express.js, and MongoDB.",
+        "companyName": "",
+        "images": []
       }
     ]
   },
