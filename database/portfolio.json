@@ -105,13 +105,13 @@
         "timeline": "Jan 2025",
         "projectName": "Expense Tracker",
         "headline1": "Developed a web application to track income and expenses with secure user authentication.",
-        "headline2": "Users can add, categorize, and manage expenses and income entries.",
+        "headline2": "Users can add, categorize, and manage expenses and income entries.Integrated a circular (pie) chart to help users visualize spending patterns effectively.",
         "designation": "",
         "link": {
           "linkText": "Github",
           "linkUrl": "https://github.com/praptisaxena/ExpenseTracker.git"
         },
-        "skills": "Built using the MERN stack: React.js, Node.js, Express.js, and MongoDB.",
+        "skills": "MERN stack,React.js, Node.js, Express.js,MongoDB.",
         "companyName": "",
         "images": []
       }
