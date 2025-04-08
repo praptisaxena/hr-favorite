@@ -61,36 +61,6 @@
         "rating": 9
       },
       {
-        "id": "1743925301412",
-        "name": "Node.js",
-        "rating": 8.5
-      },
-      {
-        "id": "1743925310216",
-        "name": "Express",
-        "rating": 9
-      },
-      {
-        "id": "1743925323060",
-        "name": "MongoDB",
-        "rating": 9
-      },
-      {
-        "id": "1743925329199",
-        "name": "SQL",
-        "rating": 8.5
-      },
-      {
-        "id": "1743925340182",
-        "name": "React Native",
-        "rating": 9
-      },
-      {
-        "id": "1743925350997",
-        "name": "Machine Learning",
-        "rating": 8.5
-      },
-      {
         "id": "1743925369417",
         "name": "Data Structures and Algorithms",
         "rating": 8
